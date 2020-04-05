@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product>
+    <Name>Test2</Name>
+    <Price>12</Price>
+    <Date>2002-09-24-06:00</Date>
+  </Product>
+  <Product>
+    <Name>Test1</Name>
+    <Price>167</Price>
+    <Date>2002-09-24-06:00</Date>
+  </Product>
+  <Product>
+    <Name>Test3</Name>
+    <Price>12123</Price>
+    <Date>2002-09-24-06:00</Date>
+  </Product>
+</Products>
